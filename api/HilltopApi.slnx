@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="HilltopApi/HilltopApi.csproj" />
+  <Project Path="HilltopApi.Tests/HilltopApi.Tests.csproj" />
+</Solution>

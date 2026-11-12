@@ -1,0 +1,10 @@
+{
+  "name": "copilot-cli-lab",
+  "version": "2.0.0",
+  "description": "Challenge lab: terminal pair programming with GitHub Copilot CLI",
+  "private": true,
+  "scripts": {
+    "check": "node scripts/check.js"
+  },
+  "license": "MIT"
+}
